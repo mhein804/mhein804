@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello
+
+I am an Environmental Studies and Mathematics Major, with a Statistics Minor.
+
+I currently am a senior at St. Lawrence University graduating in 2024.
 
 <!--
 **mhein804/mhein804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
